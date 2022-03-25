@@ -1,0 +1,8 @@
+{
+  "name": "@example/sanity-minimal",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "description": "A starter to show an minimal integration between Sanity.io and Rocket",
+  "@rocket/template-name": "Sanity Minimal Starter"
+}
